@@ -1,0 +1,1785 @@
+{
+    "presets": [
+        {
+            "name": "Default",
+            "items": [
+                {
+                    "guid": "488cd237cc182444d8f0ae55b980355a",
+                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall",
+                    "cachedName": "TownHall",
+                    "isFolder": true,
+                    "itemType": 1,
+                    "nickname": "Popup/TownHall",
+                    "children": [
+                        {
+                            "guid": "79e0714f154e744989f110cd7bf9402f",
+                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations",
+                            "cachedName": "Animations",
+                            "isFolder": true,
+                            "itemType": 1,
+                            "nickname": "",
+                            "children": [
+                                {
+                                    "guid": "a0c8ac71c811440778b0f1aa4a256315",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/ActionState",
+                                    "cachedName": "ActionState",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "e1285977bc60641edae9d7504b90b1f4",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/ActionState/ActionState.controller",
+                                            "cachedName": "ActionState.controller",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "120d8edd6acf74ab9a460a5ab3e91397",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/ActionState/ActionState_Show.anim",
+                                            "cachedName": "ActionState_Show.anim",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "fbd1baeef053347e49e9fed59e530f4f",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/InfoBalloon",
+                                    "cachedName": "InfoBalloon",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "da2cadcdea3a142068c0c43390fda52e",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/InfoBalloon/InfoBalloon.controller",
+                                            "cachedName": "InfoBalloon.controller",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "6a12fd070e8e442d483e25d60c21337d",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/InfoBalloon/InfoBalloon_Hidden.anim",
+                                            "cachedName": "InfoBalloon_Hidden.anim",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "61d52bbb616bd49a4b038b8fbfaf64ee",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/InfoBalloon/InfoBalloon_Hide.anim",
+                                            "cachedName": "InfoBalloon_Hide.anim",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "c443fde9a5e94417c9cca9e397acddce",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/InfoBalloon/InfoBalloon_Show.anim",
+                                            "cachedName": "InfoBalloon_Show.anim",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "fcf479a875272454aa9fa354b05627a9",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/NodeView",
+                                    "cachedName": "NodeView",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "4b17643f77c8d42c7a71c326274f0fb1",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/NodeView/NodeView.controller",
+                                            "cachedName": "NodeView.controller",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "8eb4998b2f91d40369b7b5ea1b4d6255",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/NodeView/NodeView_Show.anim",
+                                            "cachedName": "NodeView_Show.anim",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "e6f6ec96b8b1744e398afb3a15343863",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/Shine",
+                                    "cachedName": "Shine",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "8834c830013fd41248cde9d3935a608f",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/Shine/Shine.controller",
+                                            "cachedName": "Shine.controller",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "2148f9b7dd81c4d07b387e5615c24a97",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/Shine/Shine_Idle.anim",
+                                            "cachedName": "Shine_Idle.anim",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "8876597b6a0034cc2bddd2b603022e42",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/TownHallPopup",
+                                    "cachedName": "TownHallPopup",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "a5c08c0c34df44c99a61507f115d9ebc",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/TownHallPopup/TownHallPopup.overrideController",
+                                            "cachedName": "TownHallPopup.overrideController",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "cbae5451bcb2044d88868a217eaf7b90",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/TownHallPopup/TownHallPopup_Close.anim",
+                                            "cachedName": "TownHallPopup_Close.anim",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "6aac55d4f7b7e461f89ea0a10f667844",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Animations/TownHallPopup/TownHallPopup_Open.anim",
+                                            "cachedName": "TownHallPopup_Open.anim",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "33d65b99673664215b7f50a22453c604",
+                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Materials",
+                            "cachedName": "Materials",
+                            "isFolder": true,
+                            "itemType": 1,
+                            "nickname": "",
+                            "children": []
+                        },
+                        {
+                            "guid": "dbfb3ea67379243d59bf5bcfdbb54b28",
+                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/SAMPLE",
+                            "cachedName": "SAMPLE",
+                            "isFolder": true,
+                            "itemType": 1,
+                            "nickname": "",
+                            "children": [
+                                {
+                                    "guid": "70b2493e1585f4613957001bcd6cda6c",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/SAMPLE/20260326_타운홀_리소스가이드.png",
+                                    "cachedName": "20260326_타운홀_리소스가이드.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "18539c559d3f64cef90e3b4009c47dc5",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/SAMPLE/20260326_타운홀_플로우01.png",
+                                    "cachedName": "20260326_타운홀_플로우01.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "44a2b386a46c747319e1a14a59a92e74",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/SAMPLE/20260326_타운홀_플로우02.png",
+                                    "cachedName": "20260326_타운홀_플로우02.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "abdb422c4c6a64a59980c907b9db4831",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/SAMPLE/20260326_타운홀_플로우03.png",
+                                    "cachedName": "20260326_타운홀_플로우03.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "4b2b254a025814d398d79042d5f2e6b7",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/SAMPLE/20260326_타운홀_플로우04.png",
+                                    "cachedName": "20260326_타운홀_플로우04.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "6207af4afee944b41bfe21e002879588",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/SAMPLE/20260326_타운홀_플로우05.png",
+                                    "cachedName": "20260326_타운홀_플로우05.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "ffd389e0e15b4491d84a160cf18d3fe3",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/SAMPLE/20260326_타운홀_플로우06.png",
+                                    "cachedName": "20260326_타운홀_플로우06.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "12111553e55b84943a720db8c22b8ef5",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/SAMPLE/20260326_타운홀_플로우07.png",
+                                    "cachedName": "20260326_타운홀_플로우07.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "3bed65c2a3ff046ec959063b9821d4b7",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/SAMPLE/20260326_타운홀_플로우08.png",
+                                    "cachedName": "20260326_타운홀_플로우08.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "fae9ab68031b340beac24f3bc217741c",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/SAMPLE/20260326_타운홀시안.png",
+                                    "cachedName": "20260326_타운홀시안.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "73dac42ecfca042e9be96a5f875341d2",
+                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts",
+                            "cachedName": "Scripts",
+                            "isFolder": true,
+                            "itemType": 1,
+                            "nickname": "",
+                            "children": [
+                                {
+                                    "guid": "efc8912c0135d48f6afb4d8574e65712",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ActionArea",
+                                    "cachedName": "ActionArea",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "f3b67956b1d294f52af4e465fdaefd3b",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ActionArea/ActionArea.cs",
+                                            "cachedName": "ActionArea.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "0778059e49f2945179d28ed1b86e7769",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ActionArea/CanConfirmState.cs",
+                                            "cachedName": "CanConfirmState.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "706fbc875801543549a03ad6bf77b6ab",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ActionArea/EState.cs",
+                                            "cachedName": "EState.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "0cd392c5af1f64debae8c212a949d6ab",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ActionArea/IdleState.cs",
+                                            "cachedName": "IdleState.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "ec4f2a63463714675b98813dec9f5da2",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ActionArea/MaxLevelState.cs",
+                                            "cachedName": "MaxLevelState.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "e4fc71deb5c354f5f975d40c30c9214d",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ActionArea/ProcessingState.cs",
+                                            "cachedName": "ProcessingState.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "52fe45eea8337467caa535d1c7baaacc",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ActionArea/StateBase.cs",
+                                            "cachedName": "StateBase.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "9c97e255094104ee9a098c9c42a2f783",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ContentArea",
+                                    "cachedName": "ContentArea",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "353f8ba26dbf549789aa6e892bb2d6d6",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ContentArea/Background.cs",
+                                            "cachedName": "Background.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "75155ea114e94409a8ad686f1c464673",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ContentArea/CardPanel.cs",
+                                            "cachedName": "CardPanel.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "6b132ca8b745f4658bc3db91988d1970",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ContentArea/ContentArea.cs",
+                                            "cachedName": "ContentArea.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "5b0d85ae960a9478692a80b5e97813ce",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ContentArea/InfoBalloon.cs",
+                                            "cachedName": "InfoBalloon.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "96800375656f04507836464aefae2c44",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ContentArea/ProgressDot.cs",
+                                            "cachedName": "ProgressDot.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "cce7a0c9160a24bc7bd9f8940388037e",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ContentArea/ProgressPointHandler.cs",
+                                            "cachedName": "ProgressPointHandler.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "5d2f2fd8948984ea6a885affe14dad41",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ContentArea/ProgressPointInst.cs",
+                                            "cachedName": "ProgressPointInst.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "d9ba9a95260334728a07839332b9419c",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ContentArea/ProgressStick.cs",
+                                            "cachedName": "ProgressStick.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "685402fd8f80f4b3f833eaf497001e76",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ContentArea/Progresser.cs",
+                                            "cachedName": "Progresser.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "95143a1ee18b3439a81de78649e82b97",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ContentArea/Scroller.cs",
+                                            "cachedName": "Scroller.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "75807368358ed4fb19768c739fadba1f",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/ContentArea/Title.cs",
+                                            "cachedName": "Title.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "d850dd87961114ff2bb4d170663e2632",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/Scroll",
+                                    "cachedName": "Scroll",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "bfb0929513ef94bacab9572bf4b96086",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/Scroll/BeginNodeView.cs",
+                                            "cachedName": "BeginNodeView.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "cd99ee8f53aaa4cea89d457b96babc0a",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/Scroll/EndNodeView.cs",
+                                            "cachedName": "EndNodeView.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "78365f1241e554e2ab4076afb1268c6f",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/Scroll/LineNodeView.cs",
+                                            "cachedName": "LineNodeView.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "fa46eefdeb4de46b4877f8287ead0c17",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/Scroll/StandardNodeState_Normal.cs",
+                                            "cachedName": "StandardNodeState_Normal.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "f310fd92af63d49aa904907ecae9475d",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/Scroll/StandardNodeState_Special.cs",
+                                            "cachedName": "StandardNodeState_Special.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "a84bbbba0cb754deaba1e0102893bfbd",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/Scroll/StandardNodeView.cs",
+                                            "cachedName": "StandardNodeView.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "d53c1d9116aad410aa769e50938f3215",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/GrayscaleApplier.cs",
+                                    "cachedName": "GrayscaleApplier.cs",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "ceb98d8d20a924bccaa031b1c22e74f8",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/TownHallPopup.cs",
+                                    "cachedName": "TownHallPopup.cs",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "cc584783e00114da49efcd29a546f677",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/TownHallPopupData.cs",
+                                    "cachedName": "TownHallPopupData.cs",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "80c7a6f89357f42f3a2427529e940bae",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/TownHallPopupHelper.cs",
+                                    "cachedName": "TownHallPopupHelper.cs",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "112c16792f5db4e4da2239120a7067c4",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/Scripts/TownHallSampleView.cs",
+                                    "cachedName": "TownHallSampleView.cs",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "15dc7914534c942f3a130ce909db7f35",
+                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST",
+                            "cachedName": "TEST",
+                            "isFolder": true,
+                            "itemType": 1,
+                            "nickname": "",
+                            "children": [
+                                {
+                                    "guid": "4e9d14bad2eab47c39c3831d54a9a8d9",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/1. InfoBalloon",
+                                    "cachedName": "1. InfoBalloon",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "e5a3c9efcb1ed49b88bd564da2e63530",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/1. InfoBalloon/TEST_POPUP_TOWNHALL_INFOBALLOON.cs",
+                                            "cachedName": "TEST_POPUP_TOWNHALL_INFOBALLOON.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "b53ef94d97c424113afe95b230b3bb81",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/1. InfoBalloon/TEST_POPUP_TOWNHALL_INFOBALLOON.unity",
+                                            "cachedName": "TEST_POPUP_TOWNHALL_INFOBALLOON.unity",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "36747d0e1e3174cc7af32eca67ffe3f6",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/2. Background",
+                                    "cachedName": "2. Background",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "f89ec26db0b674171b71d9ebb7b12232",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/2. Background/TEST_POPUP_TOWNHALL_BACKGROUND.cs",
+                                            "cachedName": "TEST_POPUP_TOWNHALL_BACKGROUND.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "568c2e97ff94a4b6b8468e9db8aa9f63",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/2. Background/TEST_POPUP_TOWNHALL_BACKGROUND.unity",
+                                            "cachedName": "TEST_POPUP_TOWNHALL_BACKGROUND.unity",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "c8a848e6504264e6fa73dfee3b2aedc6",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/3. Progresser",
+                                    "cachedName": "3. Progresser",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "befc6bf4ba8ed4c049ed9c7d6d1dee44",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/3. Progresser/TEST_POPUP_TOWNHALL_PROGRESSER.cs",
+                                            "cachedName": "TEST_POPUP_TOWNHALL_PROGRESSER.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "6813c5bb1cc8a4818a9aabb83f94a5a3",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/3. Progresser/TEST_POPUP_TOWNHALL_PROGRESSER.unity",
+                                            "cachedName": "TEST_POPUP_TOWNHALL_PROGRESSER.unity",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "685949dc7729c415790e93d6f2f3ac71",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/4. CardPanel",
+                                    "cachedName": "4. CardPanel",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "bd8746fc8828c4c30bf4f49d25b0ed7b",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/4. CardPanel/TEST_POPUP_TOWNHALL_CARD_PANEL.cs",
+                                            "cachedName": "TEST_POPUP_TOWNHALL_CARD_PANEL.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "639a0978221034aedbdc2143910a42e9",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/4. CardPanel/TEST_POPUP_TOWNHALL_CARD_PANEL.unity",
+                                            "cachedName": "TEST_POPUP_TOWNHALL_CARD_PANEL.unity",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "49337e635dedf4694bad8a25fe1fc156",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/5. NodeState",
+                                    "cachedName": "5. NodeState",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "112ca2db238ab4b39940f57b30882226",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/5. NodeState/TEST_POPUP_TOWNHALL_NODE_STATE.cs",
+                                            "cachedName": "TEST_POPUP_TOWNHALL_NODE_STATE.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "2ce9570ef29634962a4e950f9a824342",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/5. NodeState/TEST_POPUP_TOWNHALL_NODE_STATE.unity",
+                                            "cachedName": "TEST_POPUP_TOWNHALL_NODE_STATE.unity",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "8aea5f967a6f84cfb9b84770a07e5058",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/6. Scroll",
+                                    "cachedName": "6. Scroll",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "289014e8d967d416fad5d11657e6f0b3",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/6. Scroll/TEST_POPUP_TOWNHALL_SCROLL.cs",
+                                            "cachedName": "TEST_POPUP_TOWNHALL_SCROLL.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "bae721e4eaef441c98f2c5250d551b98",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/6. Scroll/TEST_POPUP_TOWNHALL_SCROLL.unity",
+                                            "cachedName": "TEST_POPUP_TOWNHALL_SCROLL.unity",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "61194bc9a6eb6419f8c478b249912956",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/7. GrayApplier",
+                                    "cachedName": "7. GrayApplier",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "616d2a326e31e4780a14cb1c262aa689",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/7. GrayApplier/TEST_POPUP_TOWNHALL_GRAY_APPLIER.cs",
+                                            "cachedName": "TEST_POPUP_TOWNHALL_GRAY_APPLIER.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "6574b7825f1df4de894ae2ab505cbce2",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/7. GrayApplier/TEST_POPUP_TOWNHALL_GRAY_APPLIER.unity",
+                                            "cachedName": "TEST_POPUP_TOWNHALL_GRAY_APPLIER.unity",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "b166d624c794441589548de4654c1426",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/99. Popup",
+                                    "cachedName": "99. Popup",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "e4deee0fc008846409a990f7f3cd156b",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/99. Popup/TEST_POPUP_TOWNHALL.cs",
+                                            "cachedName": "TEST_POPUP_TOWNHALL.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "a05ff902009cb4e93a813dc3dec33d31",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/PopupV2/TownHall/TEST/99. Popup/TEST_POPUP_TOWNHALL.unity",
+                                            "cachedName": "TEST_POPUP_TOWNHALL.unity",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "298723d52085140408418b641f50b4a2",
+                    "cachedPath": "Assets/Supercent/SpinMiner/Resources/PopupV2/Prefabs/TownHallPopup",
+                    "cachedName": "TownHallPopup",
+                    "isFolder": true,
+                    "itemType": 1,
+                    "nickname": "Resources/TownHallPopup",
+                    "children": [
+                        {
+                            "guid": "33225651ccfcb423a846b5be09895536",
+                            "cachedPath": "Assets/Supercent/SpinMiner/Resources/PopupV2/Prefabs/TownHallPopup/Node",
+                            "cachedName": "Node",
+                            "isFolder": true,
+                            "itemType": 1,
+                            "nickname": "",
+                            "children": [
+                                {
+                                    "guid": "4e9451e3da7554ea09c79a1fa4b206dd",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/Resources/PopupV2/Prefabs/TownHallPopup/Node/BeginNodeView.prefab",
+                                    "cachedName": "BeginNodeView.prefab",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "53e5b35f91bad4b7e95e2f4157346532",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/Resources/PopupV2/Prefabs/TownHallPopup/Node/EndNodeView.prefab",
+                                    "cachedName": "EndNodeView.prefab",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "cf2a68cb01ab24493863a68a8d6e59ce",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/Resources/PopupV2/Prefabs/TownHallPopup/Node/LineNodeView.prefab",
+                                    "cachedName": "LineNodeView.prefab",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "91e917899864a44db9c74491731e41b2",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/Resources/PopupV2/Prefabs/TownHallPopup/Node/StandardNodeView.prefab",
+                                    "cachedName": "StandardNodeView.prefab",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "154374c40fc1c414a8bcc43b90c7b1b8",
+                            "cachedPath": "Assets/Supercent/SpinMiner/Resources/PopupV2/Prefabs/TownHallPopup/Background.prefab",
+                            "cachedName": "Background.prefab",
+                            "isFolder": false,
+                            "itemType": 0,
+                            "nickname": "",
+                            "children": []
+                        },
+                        {
+                            "guid": "d5ac7c45c600f4fa48cd2e802bc72770",
+                            "cachedPath": "Assets/Supercent/SpinMiner/Resources/PopupV2/Prefabs/TownHallPopup/CardPanel.prefab",
+                            "cachedName": "CardPanel.prefab",
+                            "isFolder": false,
+                            "itemType": 0,
+                            "nickname": "",
+                            "children": []
+                        },
+                        {
+                            "guid": "e6295dedbca1f41c889db167bb9a8b97",
+                            "cachedPath": "Assets/Supercent/SpinMiner/Resources/PopupV2/Prefabs/TownHallPopup/GrayScale.mat",
+                            "cachedName": "GrayScale.mat",
+                            "isFolder": false,
+                            "itemType": 0,
+                            "nickname": "",
+                            "children": []
+                        },
+                        {
+                            "guid": "5a26db74714bb43dea1c25b1d58673fa",
+                            "cachedPath": "Assets/Supercent/SpinMiner/Resources/PopupV2/Prefabs/TownHallPopup/InfoBalloon.prefab",
+                            "cachedName": "InfoBalloon.prefab",
+                            "isFolder": false,
+                            "itemType": 0,
+                            "nickname": "",
+                            "children": []
+                        },
+                        {
+                            "guid": "59adb267697054436b608727fbd1f22d",
+                            "cachedPath": "Assets/Supercent/SpinMiner/Resources/PopupV2/Prefabs/TownHallPopup/Progresser.prefab",
+                            "cachedName": "Progresser.prefab",
+                            "isFolder": false,
+                            "itemType": 0,
+                            "nickname": "",
+                            "children": []
+                        },
+                        {
+                            "guid": "9ab7f1166220148bda2cd18b88feeb06",
+                            "cachedPath": "Assets/Supercent/SpinMiner/Resources/PopupV2/Prefabs/TownHallPopup/Scroller.prefab",
+                            "cachedName": "Scroller.prefab",
+                            "isFolder": false,
+                            "itemType": 0,
+                            "nickname": "",
+                            "children": []
+                        },
+                        {
+                            "guid": "579c899f6b7014ab6bcf23f405ea54c3",
+                            "cachedPath": "Assets/Supercent/SpinMiner/Resources/PopupV2/Prefabs/TownHallPopup/TownHallPopup.prefab",
+                            "cachedName": "TownHallPopup.prefab",
+                            "isFolder": false,
+                            "itemType": 0,
+                            "nickname": "",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "guid": "4efd918d2a78f4dfe810a02f28d8fc04",
+                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall",
+                    "cachedName": "TownHall",
+                    "isFolder": true,
+                    "itemType": 1,
+                    "nickname": "",
+                    "children": [
+                        {
+                            "guid": "e215e677834a544f5aeeffd7c0e602e5",
+                            "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Scripts",
+                            "cachedName": "Scripts",
+                            "isFolder": true,
+                            "itemType": 1,
+                            "nickname": "",
+                            "children": [
+                                {
+                                    "guid": "092fc533bace44d9c99a955635dcb819",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Scripts/Defs",
+                                    "cachedName": "Defs",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "175eeba2dd48b46f9928f94c848a4fd0",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Scripts/Defs/TownHallLevelDef.cs",
+                                            "cachedName": "TownHallLevelDef.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "3e3d45c00e0b94981a7a768f74f44bf0",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Scripts/Defs/TownHallRewardDef.cs",
+                                            "cachedName": "TownHallRewardDef.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "46ee2fb67d89b456fa86a8863b2b0b51",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Scripts/Enums.cs",
+                                    "cachedName": "Enums.cs",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "2b4ee61ff8aa04b00be2b4e0c52fa879",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Scripts/SaveData_TownHall.cs",
+                                    "cachedName": "SaveData_TownHall.cs",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "7f89e9c4eb43045d2a8bf8dbbb307f12",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Scripts/TownHallHelper.cs",
+                                    "cachedName": "TownHallHelper.cs",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "6e7346c90bc30434ea18b91e6346340c",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Scripts/TownHallManager.cs",
+                                    "cachedName": "TownHallManager.cs",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "0e13f7c144a2c4c8c8c5060687380d7f",
+                            "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sounds",
+                            "cachedName": "Sounds",
+                            "isFolder": true,
+                            "itemType": 1,
+                            "nickname": "",
+                            "children": [
+                                {
+                                    "guid": "9ec5902e33a6347389d32f44259fa9de",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sounds/GaugeIncrease2.mp3",
+                                    "cachedName": "GaugeIncrease2.mp3",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "8d8958336407d4b77957d39fc1e4b747",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sounds/GaugeIncrease3.mp3",
+                                    "cachedName": "GaugeIncrease3.mp3",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "b7a1af8d5189b4e06a0b8b7efafe670a",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sounds/NodeAppear.mp3",
+                                    "cachedName": "NodeAppear.mp3",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "dae9bd05ece01454ca56bde919e3ec09",
+                            "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites",
+                            "cachedName": "Sprites",
+                            "isFolder": true,
+                            "itemType": 1,
+                            "nickname": "",
+                            "children": [
+                                {
+                                    "guid": "d7688eeb025c6490e9729d29dc90cc8f",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/Arrow_Down_Shadow.png",
+                                    "cachedName": "Arrow_Down_Shadow.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "020997349062048bcb1a2d71cd8089f8",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Frame_Townhall_Facility.png",
+                                    "cachedName": "BG_Frame_Townhall_Facility.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "7db728a0ae5134958878edbff4ce5bdd",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_01.png",
+                                    "cachedName": "BG_Townhall_01.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "40b3f6f34638748aaac02a7f2ae42ef2",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_02.png",
+                                    "cachedName": "BG_Townhall_02.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "7fa75f5ef532c40f296791a9cae8fff0",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Box_Blue.png",
+                                    "cachedName": "BG_Townhall_Box_Blue.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "58c2360382ffc4562a78bd70b8e5ea29",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Box_Gray.png",
+                                    "cachedName": "BG_Townhall_Box_Gray.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "3475783c9d2104f5393504da521f5a4c",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Box_Green.png",
+                                    "cachedName": "BG_Townhall_Box_Green.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "8a59837ae5c454d718efd87a503b2f79",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Box_White.png",
+                                    "cachedName": "BG_Townhall_Box_White.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "ff9ac1c0def89471580a65c45e31adf1",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Box_White_Border.png",
+                                    "cachedName": "BG_Townhall_Box_White_Border.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "4d4f79394d0dc47ec9e1610921c940f8",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Circle_Gray.png",
+                                    "cachedName": "BG_Townhall_Circle_Gray.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "8ee1f169d089047438e285b339584cd6",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Circle_Orange.png",
+                                    "cachedName": "BG_Townhall_Circle_Orange.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "e0f3f72b91186467286af9d68c42ac94",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Diamond_Gray.png",
+                                    "cachedName": "BG_Townhall_Diamond_Gray.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "730f6af1c7b5a4745aaeefdb2a3d43d9",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Diamond_White.png",
+                                    "cachedName": "BG_Townhall_Diamond_White.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "baf4fc2a628924c9f923659bc5085397",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Gradation_01.png",
+                                    "cachedName": "BG_Townhall_Gradation_01.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "9d7b07d8b125546a08a717c837ddfaf1",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Gradation_02.png",
+                                    "cachedName": "BG_Townhall_Gradation_02.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "953d982df8a5c4e108c0a8c76719b08e",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Gradation_03.png",
+                                    "cachedName": "BG_Townhall_Gradation_03.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "742f2e6bc526d4e62bfb6a2b05031b93",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Hexagon_Green-1.png",
+                                    "cachedName": "BG_Townhall_Hexagon_Green-1.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "ee8857b8bbd9e4c54bdd1588c378f7db",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Hexagon_Green.png",
+                                    "cachedName": "BG_Townhall_Hexagon_Green.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "651e294def08442b58e6653064f95bf8",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Hexagon_White.png",
+                                    "cachedName": "BG_Townhall_Hexagon_White.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "9e5045e783e6a494ca3b4fa5d9b5aa10",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Line.png",
+                                    "cachedName": "BG_Townhall_Line.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "3b87c0588fda2437484840935535b8b1",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Line_Fill.png",
+                                    "cachedName": "BG_Townhall_Line_Fill.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "a650484cb4da54d54970c168b3319477",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Line_Gray-1.png",
+                                    "cachedName": "BG_Townhall_Line_Gray-1.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "36b25a08a670d48dfabecaad7f078e16",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Line_Gray.png",
+                                    "cachedName": "BG_Townhall_Line_Gray.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "49d2da1ce8cb64c01875723b8b993d1a",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/BG_Townhall_Line_Green.png",
+                                    "cachedName": "BG_Townhall_Line_Green.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "99bc9dd0c704e4a23b7051e8beaaa3ff",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/Frame_RV_ChatBubble.png",
+                                    "cachedName": "Frame_RV_ChatBubble.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "36086c60021a04236ab8ce752373a6b2",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/Frame_RV_ChatBubble_UP.png",
+                                    "cachedName": "Frame_RV_ChatBubble_UP.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "97789e4c860ed4daeb79122ab040f662",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/Frame_Townhall_Level.png",
+                                    "cachedName": "Frame_Townhall_Level.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "0bd00cae88c6b47f0b8a62d6e57dece6",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/Frame_Townhall_Level_Done.png",
+                                    "cachedName": "Frame_Townhall_Level_Done.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "3eecc4fc640524defa20ba9c552f14b8",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/Frame_Townhall_Level_Gray.png",
+                                    "cachedName": "Frame_Townhall_Level_Gray.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "0f1f4a32dfb6f4ae28f68a63e8b62687",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/Frame_Townhall_Level_InProgress.png",
+                                    "cachedName": "Frame_Townhall_Level_InProgress.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "0d9450ba87218494c905d7fa4dc956a3",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/Frame_Townhall_Level_Pending.png",
+                                    "cachedName": "Frame_Townhall_Level_Pending.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "b8e7eacb7356348b68367898db3b541e",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/ICN_Arrow01.png",
+                                    "cachedName": "ICN_Arrow01.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "01b95a6e78c8b4aa687db16fd9f59888",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/ICN_Pattern_Pick.png",
+                                    "cachedName": "ICN_Pattern_Pick.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "4819bff595fcd4ebaaf944f5caf3e1ed",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/ICN_Townhall_Construction.png",
+                                    "cachedName": "ICN_Townhall_Construction.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "b1abe615b48384c509b6eff0f5eee708",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/Icon_Lock_02.png",
+                                    "cachedName": "Icon_Lock_02.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "1df9484bdcf5047fb80c2cdbcb43d54c",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/Line_Townhall_Section.png",
+                                    "cachedName": "Line_Townhall_Section.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "f0f87321d13a245918f204c01d05a29a",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/Sprites/UnderConstruction.png",
+                                    "cachedName": "UnderConstruction.png",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "a9087b0faa95c41619a5a5de90f3a270",
+                            "cachedPath": "Assets/Supercent/SpinMiner/TownHall/TEST",
+                            "cachedName": "TEST",
+                            "isFolder": true,
+                            "itemType": 1,
+                            "nickname": "",
+                            "children": [
+                                {
+                                    "guid": "c8987aaf91cd64fd89126c81a879dae1",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/TownHall/TEST/99. Manager",
+                                    "cachedName": "99. Manager",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "926e9e13141264b9d8dd5531f3493032",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/TownHall/TEST/99. Manager/TEST_TOWN_HALL_MANAGER.cs",
+                                            "cachedName": "TEST_TOWN_HALL_MANAGER.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "83f57dcb13e7f453cb418cfb04f86182",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/TownHall/TEST/99. Manager/TEST_TOWN_HALL_MANAGER.unity",
+                                            "cachedName": "TEST_TOWN_HALL_MANAGER.unity",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "8079eb76494fa4c9aa759e0e029fe87a",
+                    "cachedPath": "Assets/Supercent/SpinMiner/Resources/PopupV2/Prefabs/InventoryPopup/InventoryPopup.prefab",
+                    "cachedName": "InventoryPopup.prefab",
+                    "isFolder": false,
+                    "itemType": 0,
+                    "nickname": "",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Loot",
+            "items": [
+                {
+                    "guid": "7b9efbbaca44145949f043d32b07f79d",
+                    "cachedPath": "Assets/Supercent/SpinMiner/Loot",
+                    "cachedName": "Loot",
+                    "isFolder": true,
+                    "itemType": 1,
+                    "nickname": "",
+                    "children": [
+                        {
+                            "guid": "11bf39315369a4de7b97af0694107c59",
+                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot",
+                            "cachedName": "ItemLoot",
+                            "isFolder": true,
+                            "itemType": 1,
+                            "nickname": "",
+                            "children": [
+                                {
+                                    "guid": "3d2ef77f7d04543338af5f762da1b392",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/Resources",
+                                    "cachedName": "Resources",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "054ae154822f14b9e8fddd39e91f9bf1",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/Resources/ItemLoot",
+                                            "cachedName": "ItemLoot",
+                                            "isFolder": true,
+                                            "itemType": 1,
+                                            "nickname": "",
+                                            "children": [
+                                                {
+                                                    "guid": "38f65ae572dcf40d6af27527b4537245",
+                                                    "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/Resources/ItemLoot/ItemLootAbsorber.prefab",
+                                                    "cachedName": "ItemLootAbsorber.prefab",
+                                                    "isFolder": false,
+                                                    "itemType": 0,
+                                                    "nickname": "",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "guid": "eae7fadc4eb0749b5b4e3d995df99a5f",
+                                                    "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/Resources/ItemLoot/ItemLootBehaviour.prefab",
+                                                    "cachedName": "ItemLootBehaviour.prefab",
+                                                    "isFolder": false,
+                                                    "itemType": 0,
+                                                    "nickname": "",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "fc1bb14e1c0304c4f9c11ea35ee8b297",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/Scripts",
+                                    "cachedName": "Scripts",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "11c37493a13f84cf8b5cf9ad86672edc",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/Scripts/BoosterItemLootSkin.cs",
+                                            "cachedName": "BoosterItemLootSkin.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "a1b569a420b7047a8914c7478891f43a",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/Scripts/Enums.cs",
+                                            "cachedName": "Enums.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "8bb3957fabb02436fb7b19765c0da2bd",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/Scripts/ItemLootAbsorber.cs",
+                                            "cachedName": "ItemLootAbsorber.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "c6b98e2ce6d3d4db6961b173fcafa8dd",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/Scripts/ItemLootBehaviour.cs",
+                                            "cachedName": "ItemLootBehaviour.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "92a9b25affb8d4dce8b13185a7b6f636",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/Scripts/ItemLootHandler.cs",
+                                            "cachedName": "ItemLootHandler.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "6bfc806939fda453d99213a1b512926d",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/Scripts/ItemLootManager.cs",
+                                            "cachedName": "ItemLootManager.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "451588afba2b84575b19bfb679e78b0a",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/Scripts/ItemLootSkin.cs",
+                                            "cachedName": "ItemLootSkin.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "f6d06ca16f6d04df7aa403ff6c39e545",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/TEST",
+                                    "cachedName": "TEST",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "482ed7ad46b0c4363a1179534a7247ed",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/TEST/TEST_ITEM_LOOT.cs",
+                                            "cachedName": "TEST_ITEM_LOOT.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "aa574b988da594271bc6f39df671004f",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/ItemLoot/TEST/TEST_ITEM_LOOT.unity",
+                                            "cachedName": "TEST_ITEM_LOOT.unity",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "1343c52ca4dd9423a9018fa7531a1479",
+                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/PickaxeLoot",
+                            "cachedName": "PickaxeLoot",
+                            "isFolder": true,
+                            "itemType": 1,
+                            "nickname": "",
+                            "children": [
+                                {
+                                    "guid": "7edf0d1a7004943b4819946d692ddeb0",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/Loot/PickaxeLoot/Resources",
+                                    "cachedName": "Resources",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "3ae1526f266514715932d1de3f1916e4",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/PickaxeLoot/Resources/Loot",
+                                            "cachedName": "Loot",
+                                            "isFolder": true,
+                                            "itemType": 1,
+                                            "nickname": "",
+                                            "children": [
+                                                {
+                                                    "guid": "8edcade497c3f4868a6f43a75f54f669",
+                                                    "cachedPath": "Assets/Supercent/SpinMiner/Loot/PickaxeLoot/Resources/Loot/PickaxeLootAbsorber.prefab",
+                                                    "cachedName": "PickaxeLootAbsorber.prefab",
+                                                    "isFolder": false,
+                                                    "itemType": 0,
+                                                    "nickname": "",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "guid": "0d19b7b56c6ff4d4e8973d16bed09a79",
+                                                    "cachedPath": "Assets/Supercent/SpinMiner/Loot/PickaxeLoot/Resources/Loot/PickaxeLootBehaviour.prefab",
+                                                    "cachedName": "PickaxeLootBehaviour.prefab",
+                                                    "isFolder": false,
+                                                    "itemType": 0,
+                                                    "nickname": "",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "9d7ff3a0b94df4ecca3804512d1a04fd",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/Loot/PickaxeLoot/Scripts",
+                                    "cachedName": "Scripts",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "102ae1297540d4fcdb4c618c3dca87cb",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/PickaxeLoot/Scripts/PickaxeLootAbsorber.cs",
+                                            "cachedName": "PickaxeLootAbsorber.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "efa413131715c4ccf8c328147c6e8856",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/PickaxeLoot/Scripts/PickaxeLootBehaviour.cs",
+                                            "cachedName": "PickaxeLootBehaviour.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "ebefc39742ac94b6ea68fd52829db349",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/PickaxeLoot/Scripts/PickaxeLootHandler.cs",
+                                            "cachedName": "PickaxeLootHandler.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "82bb33823f03c41dcb2957e090c5838c",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/PickaxeLoot/Scripts/PickaxeLootManager.cs",
+                                            "cachedName": "PickaxeLootManager.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "guid": "77cd1f7d51b0a467b8483bd7cecc0e39",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/Loot/PickaxeLoot/TEST",
+                                    "cachedName": "TEST",
+                                    "isFolder": true,
+                                    "itemType": 1,
+                                    "nickname": "",
+                                    "children": [
+                                        {
+                                            "guid": "53ff2185d19b74771ac2d9b33443f422",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/PickaxeLoot/TEST/TEST_PICKAXE_LOOT.cs",
+                                            "cachedName": "TEST_PICKAXE_LOOT.cs",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "guid": "1347396540f9e40c8823d3255724f233",
+                                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/PickaxeLoot/TEST/TEST_PICKAXE_LOOT.unity",
+                                            "cachedName": "TEST_PICKAXE_LOOT.unity",
+                                            "isFolder": false,
+                                            "itemType": 0,
+                                            "nickname": "",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "05c405ce4b31e4fc898c420fd1988e29",
+                            "cachedPath": "Assets/Supercent/SpinMiner/Loot/Scripts",
+                            "cachedName": "Scripts",
+                            "isFolder": true,
+                            "itemType": 1,
+                            "nickname": "",
+                            "children": [
+                                {
+                                    "guid": "68b7382450c60485cad2c5855ae0d344",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/Loot/Scripts/LootHelper.cs",
+                                    "cachedName": "LootHelper.cs",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                },
+                                {
+                                    "guid": "59fed6397feb54542943095739609bad",
+                                    "cachedPath": "Assets/Supercent/SpinMiner/Loot/Scripts/TweenArcConfig.cs",
+                                    "cachedName": "TweenArcConfig.cs",
+                                    "isFolder": false,
+                                    "itemType": 0,
+                                    "nickname": "",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "currentPresetIndex": 0
+}
